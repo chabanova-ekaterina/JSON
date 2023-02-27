@@ -2,11 +2,11 @@
 	"firstName":"Katy",
 	"age":123,
 	"pet":321,
-	"salary":2000$,
+	"salary":2000,
 }
 {
         "firstName":"Max",
         "age":325,
         "pet":654,
-        "salary":5000$,
+        "salary":5000,
 }
