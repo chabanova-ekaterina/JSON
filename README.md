@@ -1,6 +1,11 @@
 # JSON
 <h1 align="center">This repository contains files with examples of writing in JSON format</h1>
 
+
+<div align="center">
+  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1sQz6t5zimvKm0gqlF_3yHyueb5lTq70I"  title="JSON" alt="JSON" width="60" height="80"/>&nbsp;
+</div>
+
 ```
 {
 	"soft_skill":"team_player",
