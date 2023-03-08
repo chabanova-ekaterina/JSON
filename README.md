@@ -6,7 +6,7 @@
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1sQz6t5zimvKm0gqlF_3yHyueb5lTq70I"  title="JSON" alt="JSON" width="60" height="80"/>&nbsp;
 </div>
 
-<img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1fMIfRs7JAEHNMRAN-hybLoSz5Yv5HYbi"/> Bag report <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=11pxlgs0K3PTDJnSroSjWMBSHeLsZmnsH"/>
+<img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1fMIfRs7JAEHNMRAN-hybLoSz5Yv5HYbi"/> Skills <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=11pxlgs0K3PTDJnSroSjWMBSHeLsZmnsH"/>
 
 ```
 {
