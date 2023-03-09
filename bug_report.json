@@ -12,5 +12,5 @@
 	"Expected result":"The left slider moves to the left"
 	"Actual Result":"When combining sliders in one place, the last slider dominates. Unable to expand sliders when interacting with a previous slider"
    	"Attach":"link"
-    " Comments":"no_comments"
+  	" Comments":"no_comments"
   }
