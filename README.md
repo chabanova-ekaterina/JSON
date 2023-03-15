@@ -8,6 +8,8 @@
 
 <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1fMIfRs7JAEHNMRAN-hybLoSz5Yv5HYbi"/> Skills <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=11pxlgs0K3PTDJnSroSjWMBSHeLsZmnsH"/>
 
+
+
 ```
 {
 	"soft_skill":"team_player",
