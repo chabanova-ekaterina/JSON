@@ -6,9 +6,9 @@
 	"Precondition":"Open the site on the main page, Scroll to the Trading calculator",
 	"Environment":"1.OS: Windows 10 Pro 19042.1415; Chrome 109.0.5414.120",
   	"STR (Steps to restore)": {
-                           " 1." : "Set the left slider in an arbitrary place, except for the leftmost position"
-                           " 2." : "Move the right slider to it"
-                           " 3.": "Pull the left slider"
+                           " 1" : "Set the left slider in an arbitrary place, except for the leftmost position"
+                           " 2" : "Move the right slider to it"
+                           " 3": "Pull the left slider"
 	}
 	"Expected result":"The left slider moves to the left",
 	"Actual Result":"When combining sliders in one place, the last slider dominates. Unable to expand sliders when interacting with a previous slider",
