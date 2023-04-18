@@ -1,3 +1,5 @@
+// 14. Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON
+// 14. Create a file sklls.json add information about the skills that will be studied on the course in JSON format
 {
 	"soft_skill":"team_player",
 	"soft_skill":"creativity",
