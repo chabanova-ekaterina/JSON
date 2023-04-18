@@ -1,13 +1,11 @@
 # JSON
 <h1 align="center">This repository contains files with examples of writing in JSON format</h1>
 
-
 <div align="center">
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1sQz6t5zimvKm0gqlF_3yHyueb5lTq70I"  title="JSON" alt="JSON" width="60" height="80"/>&nbsp;
 </div>
 
 <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1fMIfRs7JAEHNMRAN-hybLoSz5Yv5HYbi"/> Skills <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=11pxlgs0K3PTDJnSroSjWMBSHeLsZmnsH"/>
-
 
 
 ```
@@ -50,7 +48,6 @@
  19. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
  20. Синхронизировать внешний и локальный репозиторий JSON
 </details>
-
 
 <details>
 <summary> JSON Eng </summary>
